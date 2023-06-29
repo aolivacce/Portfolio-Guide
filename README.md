@@ -27,9 +27,19 @@ A guide and summary to my projects and case studies.
 |[Exploring the Bitcoin Cryptocurrency Market](https://github.com/aolivacce/DataCamp-Projects/blob/main/cryptocurrency.ipynb)|In this project, we explore the market capitalization of different cryptocurrencies. | pandas, matplotlib
 
 
-# R
-
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-
 # Tableau
+
+| Project  | Project Description | Dashboard Link |
+|---|---|---|
+|Global Vaccine Tracker| In this project, I created  a data visualization project focused on tracking the progress and distribution of COVID-19 vaccines using Tableau. The project aims to provide insightful visualizations that allow users to explore and understand the global vaccination efforts in the fight against the COVID-19 pandemic.| [View Dashboard](https://public.tableau.com/app/profile/anntia.olivacce/viz/GlobalVaccineTracker_16819381109410/GlobalVaccination)
+| Tableau Focused Job Analysis | For this project, I analyzed trends in job opportunities, education requirements and salary expectations. Also, we will look into which job titles are the most tableau focused. | [View Dashboard](https://public.tableau.com/app/profile/anntia.olivacce/viz/TableauFocusJobs/JobAnalytics?publish=yes) 
+|Churn Analysis | In this Tableau case study, I analyze and investigate a dataset from an example telecom company called Databel and analyze their churn rates.  |[View Dashboard](https://public.tableau.com/app/profile/anntia.olivacce/viz/ChurnAnalysis_16847232832950/ChurnAnalysis)
+
+
+
+
+
+
+
+
+# 
