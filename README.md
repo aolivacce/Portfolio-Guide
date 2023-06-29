@@ -22,7 +22,7 @@ A guide and summary to my projects and case studies.
 
 | Project Link | Project Description | Libraries |    
 |---|---|---|
-| [Mobile Games A/B Testing with Cookie Cats](https://github.com/aolivacce/A-B-Testing/blob/main/mobilegametesting.ipynb) |In this project, I analyze the result of an A/B test where the first gate in Cookie Cats was moved from level 30 to level 40. In particular - the impact on player retention. | pandas, matplotlib
+| [Mobile Games A/B Testing with Cookie Cats](https://github.com/aolivacce/A-B-Testing/blob/main/README.md) |In this project, I analyze the result of an A/B test where the first gate in Cookie Cats was moved from level 30 to level 40. In particular - the impact on player retention. | pandas, matplotlib
 |[Dr. Semmelweis and the Discovery of Handwashing](https://github.com/aolivacce/DataCamp-Projects/blob/main/semmelweis.ipynb)| In this project, I  reanalyze the medical data Semmelweis collected regarding his discovery in 18477 that contaminated hands was a major cause of childbed fever.| pandas, matplotlib
 |[Exploring the Bitcoin Cryptocurrency Market](https://github.com/aolivacce/DataCamp-Projects/blob/main/cryptocurrency.ipynb)|In this project, we explore the market capitalization of different cryptocurrencies. | pandas, matplotlib
 
